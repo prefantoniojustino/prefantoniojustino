@@ -16,6 +16,16 @@
 
     <link rel="shortcut icon" href="./assets/images/logo-06.png" type="image/x-icon">
     <link rel="stylesheet" href="./index.css" media="all">
+
+    <link rel="manifest" href="./manifest.json">
+
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js');
+            });
+        }
+    </script>
 </head>
 
 <body>

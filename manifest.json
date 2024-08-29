@@ -1,0 +1,17 @@
+{
+    "name": "Antonio Justino 40",
+    "short_name": "Antonio Justino 40",
+    "icons": [
+        {
+            "src": "./assets/images/logo-06.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable" 
+        }
+    ],
+    "theme_color": "#FF6A00",
+    "backgroun_color": "#FFFFFF",
+    "start_url": "/prefantoniojustino/",
+    "display": "standalone",
+    "orentation": "portrait"
+}
