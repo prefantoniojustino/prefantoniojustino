@@ -9,7 +9,7 @@
             "purpose": "any maskable" 
         }
     ],
-    "theme_color": "#FF6A00",
+    "theme_color": "#FFFFFF",
     "backgroun_color": "#FFFFFF",
     "start_url": "/prefantoniojustino/",
     "display": "standalone",
