@@ -1,0 +1,67 @@
+[
+    {
+        "image": "./images/VEREADORES/DAMÁSIO.png",
+        "name": "DAMASIO BERTO",
+        "num": "40000"
+    },
+    {
+        "image": "./images/VEREADORES/DENILSON.png",
+        "name": "DENILSON ALVES",
+        "num": "40123"
+    },
+    {
+        "image": "./images/VEREADORES/EDIVALDO.png",
+        "name": "EDIVALDO ROCHA",
+        "num": "55999"
+    },
+    {
+        "image": "./images/VEREADORES/GRACILENE.png",
+        "name": "GRACILENE",
+        "num": "40789"
+    },
+    {
+        "image": "./images/VEREADORES/LIZ-VITORIA.png",
+        "name": "LIZ VITORIA",
+        "num": "55777"
+    },
+    {
+        "image": "./images/VEREADORES/LUIZ-ALVES.png",
+        "name": "LUIZ ALVES",
+        "num": "40678"
+    },
+    {
+        "image": "./images/VEREADORES/NILMA.png",
+        "name": "NILMA DE JOSELIO",
+        "num": "40555"
+    },
+    {
+        "image": "./images/VEREADORES/RHUAN.png",
+        "name": "RHUAN",
+        "num": "40111"
+    },
+    {
+        "image": "./images/VEREADORES/ROGERIO-MOREIRA.png",
+        "name": "ROGERIO MOREIRA",
+        "num": "40333"
+    },
+    {
+        "image": "./images/VEREADORES/ROSINHA.png",
+        "name": "ROSINHA BOLACHINHA",
+        "num": "40888"
+    },
+    {
+        "image": "./images/VEREADORES/RUZIA.png",
+        "name": "RUZIA BORGES",
+        "num": "40444"
+    },
+    {
+        "image": "./images/VEREADORES/VAN-MACENA.png",
+        "name": "VAN MACENA",
+        "num": "40222"
+    },
+    {
+        "image": "./images/VEREADORES/VERIENE-VILARIM.png",
+        "name": "VERIENE VILARIM",
+        "num": "55666"
+    }
+]
