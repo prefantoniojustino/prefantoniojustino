@@ -3,7 +3,7 @@
     "short_name": "Antonio Justino 40",
     "icons": [
         {
-            "src": "./assets/images/logo-06.png",
+            "src": "./assets/images/favicon.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable" 
