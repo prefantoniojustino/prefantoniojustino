@@ -186,7 +186,7 @@ loadSong(songs[songIndex]);
 // Update song details
 function loadSong(song) {
   title.innerText = song;
-  audio.src = `assets/music/${song}.mpeg`;
+  audio.src = `assets/music/${song}.webm`;
   cover.src = `assets/images/music/cover.png`;
   // cover.src = `assets/images/music/${song}.png`;
 }
