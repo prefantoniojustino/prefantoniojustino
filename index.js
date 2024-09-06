@@ -1,3 +1,4 @@
+// REFERENCE CODE: https://www.youtube.com/watch?v=c6aGVrjE974
 const candidateList = [
   {
     image: "./assets/images/prefeito-02.png",
