@@ -296,6 +296,29 @@ main #install {
     text-transform: uppercase;
 }
 
+.tab-content .tab-container-agenda {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.tab-content .tab-container-agenda .agenda-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding-bottom: 120px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.tab-content .tab-container-agenda .agenda-container img {
+    border-radius: 32px;
+    width: 100%;
+    max-width: 400px;
+}
+
 /* NAVBAR */
 
 .container-nav {
