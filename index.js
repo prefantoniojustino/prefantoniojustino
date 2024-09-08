@@ -78,12 +78,6 @@ const candidateList = [
     num: [4, 0, 2, 2, 2],
     candidate: "Vereador(a)",
   },
-  {
-    image: "./assets/images/VEREADORES/VERIENE-VILARIM.png",
-    name: "VERIENE VILARIM",
-    num: [5, 5, 6, 6, 6],
-    candidate: "Vereador(a)",
-  },
 ];
 
 // main.js
