@@ -265,14 +265,12 @@ main #install {
 .tab-content .tab-container-proposal {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: flex-start;
 }
 
 .tab-content .tab-container-proposal .proposal-container {
     width: 100%;
     max-width: 400px;
-    padding-top: 96px;
     padding-bottom: 120px;
 }
 
@@ -299,7 +297,6 @@ main #install {
 .tab-content .tab-container-agenda {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
     gap: 16px;
 }
 
